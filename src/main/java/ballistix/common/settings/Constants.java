@@ -35,9 +35,9 @@ public class Constants {
 	@DoubleValue(def = 1200.0, comment = "Value is in ticks.")
 	public static double EXPLOSIVE_CONTAGIOUS_DURATION = 1200.0;
 	@DoubleValue(def = 50.0)
-	public static double EXPLOSIVE_DARKMATTER_RADIUS = 50.0;
+	public static double EXPLOSIVE_DARKMATTER_RADIUS = 250.0;
 	@DoubleValue(def = 1200.0, comment = "Value is in ticks.")
-	public static double EXPLOSIVE_DARKMATTER_DURATION = 1200.0;
+	public static double EXPLOSIVE_DARKMATTER_DURATION = 4200.0;
 	@DoubleValue(def = 7.0)
 	public static double EXPLOSIVE_DEBILITATION_SIZE = 7.0;
 	@DoubleValue(def = 1200.0, comment = "Value is in ticks.")
